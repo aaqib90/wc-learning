@@ -36,5 +36,9 @@
     "webpack-cli": "^5.0.1",
     "webpack-dev-server": "^4.11.1",
     "webpack-karma-jasmine": "^2.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aaqib90/wc-learning"
   }
 }
